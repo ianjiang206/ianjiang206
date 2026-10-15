@@ -2,14 +2,14 @@
 
 # Introduction
 
-Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby on Rails.
+Hi there :wave:, I'm Ian, a full-stack developer — frontend to backend, now going deeper with Python and Go.
 
 - [Twitter](https://twitter.com/ianlynxk)
 - [Blog](https://movingbrick.com)
 
 ## About me
 - :thinking: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- :briefcase: &nbsp; Full-stack developer with 7+ years of experiences.
+- :briefcase: &nbsp; Full-stack developer with 8+ years of experience — frontend, and backend with Ruby on Rails, now shifting to Python & Go.
 - :seedling: &nbsp; I'm currently learning AI agent design.
 
 ## Tech Stack
