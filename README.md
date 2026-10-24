@@ -53,5 +53,5 @@ Hi there :wave:, I'm Ian, a full-stack developer — frontend to backend, now go
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 
 <!-- <br> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=otorain&show_icons=true&count_private=true&show_icons=true&theme=radical&ver=2"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ianjiang206&show_icons=true&count_private=true&show_icons=true&theme=radical&ver=2"> -->
 
